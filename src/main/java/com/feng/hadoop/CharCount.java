@@ -1,7 +1,6 @@
 package com.feng.hadoop;
 
 import com.feng.hadoop.mapper.CharMapper;
-import com.feng.hadoop.mapper.TokenizerMapper;
 import com.feng.hadoop.reducer.IntSumReducer;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
